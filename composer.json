@@ -28,7 +28,7 @@
 
     "autoload": {
         "psr-0": {
-            "knp\\PiwikClient": "src/"
+            "Knp\\PiwikClient": "src/"
         }
     }
 }
